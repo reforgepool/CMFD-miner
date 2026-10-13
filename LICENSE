@@ -1,0 +1,29 @@
+REFORGEPOOL PROPRIETARY SOFTWARE LICENSE
+Version 1.0 — 13 October 2026
+
+Copyright (c) 2026 REFORGEPOOL. All rights reserved in original REFORGEPOOL components.
+
+1. SCOPE
+These terms apply only to the original proprietary components of REFORGEPOOL CMFD Miner and their compiled distribution ("REFORGEPOOL Components"). They do not supersede the licenses of CommonFoundry or any other third-party component.
+
+2. PERMISSION TO USE
+REFORGEPOOL grants an individual or organization a non-exclusive, non-transferable, revocable license to download and run unmodified official compiled releases of the REFORGEPOOL Components for their own cryptocurrency mining, subject to applicable law and the separately disclosed developer-fee policy.
+
+3. RESTRICTIONS
+Except as permitted by applicable law or by separate written authorization from REFORGEPOOL, you may not redistribute, sell, sublicense, modify, publish, or create derivative works of the REFORGEPOOL Components. No source-code license is granted by this document.
+
+4. THIRD-PARTY RIGHTS
+Nothing here restricts rights granted under the MIT License for CommonFoundry components, or any other third-party license. Where a third-party license grants broader permissions, those permissions remain applicable to the corresponding third-party code. See THIRD_PARTY_NOTICES.md.
+
+5. NO WARRANTIES
+THE REFORGEPOOL COMPONENTS ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, TO THE MAXIMUM EXTENT PERMITTED BY LAW. MINING RESULTS, RELIABILITY, REWARDS AND FITNESS FOR A PARTICULAR PURPOSE ARE NOT GUARANTEED.
+
+6. LIABILITY
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, REFORGEPOOL IS NOT LIABLE FOR INDIRECT, INCIDENTAL, SPECIAL OR CONSEQUENTIAL DAMAGES ARISING OUT OF THE USE OF THE REFORGEPOOL COMPONENTS.
+
+7. TERMINATION
+The license to the REFORGEPOOL Components ends if you materially breach these terms. This does not affect any independent rights you may have under third-party licenses.
+
+For questions or separate licensing permissions, contact REFORGEPOOL through the official project repository.
+
+Note: Review these terms and the full bundled dependency license inventory with qualified legal counsel before commercial public distribution.
