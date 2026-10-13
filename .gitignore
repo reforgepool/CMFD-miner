@@ -1,0 +1,20 @@
+# Never commit private source, release binaries or secrets.
+.env
+.env.*
+*.key
+*.pem
+*.token
+*telemetry*token*
+*.tar
+*.tar.gz
+*.gz
+*.zip
+*.cubin
+*.fatbin
+*.ptx
+*.so
+*.bin
+*.bank
+/target/
+/private/
+/source-backups/
